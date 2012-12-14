@@ -1,3 +1,4 @@
 source :rubygems
-gem 'sinatra', '1.1.0'
-gem 'thin'
+gem 'sinatra'
+
+ruby '1.9.3', engine: 'jruby', engine_version: '1.7.1'
