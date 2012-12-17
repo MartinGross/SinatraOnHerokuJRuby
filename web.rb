@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Sa oled minu kallis kass!"
+  "Hello from Sinatra running with JRuby and Puma on Heroku!"
 end
