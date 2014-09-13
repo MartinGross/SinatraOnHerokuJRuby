@@ -1,1 +1,1 @@
-Sinatra running with JRuby and Puma on Heroku
+# Sinatra running with JRuby and Puma on Heroku
